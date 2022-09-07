@@ -6,6 +6,8 @@ In the folder there are:
 
 environment.yml: the python environment we use, mainly pytorch 1.7.1.
 
+Salvus_acoustic_simulation.ipynb: generate training dataset using Salvus (https://mondaic.com/product/)
+
 input_a: examples of source location and velocity model
 
 input_u: examples of acoustic wavefield
