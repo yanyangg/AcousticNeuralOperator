@@ -1,4 +1,6 @@
 # AcousticNeuralOperator
+## citation:
+Yang, Yan, Angela F. Gao, Jorge C. Castellanos, Zachary E. Ross, Kamyar Azizzadenesheli, and Robert W. Clayton. "Seismic wave propagation and inversion with neural operators." The Seismic Record 1, no. 3 (2021): 126-134.
 
 It is modified from FNO-torch.1.6 (https://github.com/zongyi-li/fourier_neural_operator/tree/master/FNO-torch.1.6). 
 
